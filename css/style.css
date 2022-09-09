@@ -1,0 +1,28 @@
+.image-container {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.author {
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+.status{
+    color: aqua;
+    text-decoration: none,;
+}
+.status:hover{
+    color:black;
+}
+.title {
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.skils-bio ,li{
+    list-style: none ;
+
+}
